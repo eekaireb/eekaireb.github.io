@@ -5,7 +5,7 @@ Hello! My name is Emily Ekaireb. I am a third year Computer Engineering major fr
 - Surfing
 - Hiking
 - Knitting
-- And playing with [my dogs]().
+- And playing with [my dogs](https://github.com/eekaireb/eekaireb.github.io/blob/vs_branch/index.md#bonus).
 I actually have two dogs, Daisy and Teddy. They are both very sweet, though Daisy does like to be somewhat **vocal** when I'm on zoom calls and Teddy is a puppy so she is just *CRAZY*. 
 
 Touching on an earlier point, I just recently started surfing so a better way to phrase my hobby would be: 

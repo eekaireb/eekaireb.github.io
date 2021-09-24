@@ -20,7 +20,10 @@ My favorite quote is:
 
 which was said by Marilyn Monroe.
 
-
+Some of my goals for this year are: 
+- [ ] Publish a paper
+- [x] Learn to surf
+- [ ] Read 25 books
 
 ## Programming Background 
 I have experience coding in C, C++, Java, Python, CSS, Assembly, and Javascript. I have also coded in Matlab before, but I'll admit that is a little more touch and go. 

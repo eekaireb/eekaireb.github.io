@@ -34,6 +34,6 @@ public static void(String args[])
 I have done a couple hackathons before. One of the projects I made was a Chrome Extentsion, called [WIKIgames](https://devpost.com/software/wikigames), with arcade games that work interactively with Wikepedia pages. 
 
 ## Bonus 
-Here is a picture of [my dogs](dogs.JPG).
+Here is a picture of [my dogs](dogs.jpg).
 
 

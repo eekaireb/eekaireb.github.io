@@ -1,6 +1,10 @@
 # Emily's User Page 
 ## A little about me 
-Hello! My name is Emily Ekaireb. I am a third year Computer Engineering major from Muir. I am a San Diego native so I **love** going to the beach. Some of my hobbies include: 
+Hello! My name is Emily Ekaireb. 
+
+<img src="me.jpg" alt="me" width="500"/>
+
+I am a third year Computer Engineering major from Muir. I am a San Diego native so I **love** going to the beach. Some of my hobbies include: 
 - Swimming
 - Surfing
 - Hiking

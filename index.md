@@ -4,7 +4,7 @@ Hello! My name is Emily Ekaireb.
 
 <img src="me.jpg" alt="me" width="500"/>
 
-I am a third year Computer Engineering major from Muir. I am a San Diego native so I **love** going to the beach. Some of my hobbies include: 
+I am a third year Computer Engineering major from Muir. I am a San Diego native so I **love** going to the beach, ~~maybe a little too much~~ . Some of my hobbies include: 
 - Swimming
 - Surfing
 - Hiking
@@ -38,7 +38,7 @@ public static void(String args[])
   System.out.println("Hello World!");
 }
 ```
-I have done a couple hackathons before. One of the projects I made was a Chrome Extentsion, called [WIKIgames](https://devpost.com/software/wikigames), with arcade games that work interactively with Wikepedia pages. 
+I have done a couple hackathons before. One of the projects I made was a Chrome Extentsion, called [WIKIgames](https://devpost.com/software/wikigames), with arcade games that work interactively with Wikepedia pages. I also am part of a research lab, where I am working on a project having to do with ***federated learning***. The work I have to do for my research is **very hard, but I _enjoy it alot_.**
 
 ## Bonus 
 Here is a picture of [my dogs](dogs.jpg).
